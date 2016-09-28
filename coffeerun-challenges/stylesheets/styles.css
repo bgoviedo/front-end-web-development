@@ -1,0 +1,18 @@
+.flex-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.slider {
+    flex: 1 0 auto;
+}
+
+.slider-label {
+    width: 30px;
+    text-align: right;
+}
+
+.slider-label > p {
+    color: rgb(153, 255, 0);
+}
